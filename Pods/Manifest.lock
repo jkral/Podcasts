@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.6.0)
+  - FeedKit (6.2.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - FeedKit (~> 6.0)
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  FeedKit: 48e371d0884b3bc7d87253f5ae3313c91d2a7e72
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+
+PODFILE CHECKSUM: 8d5c521334339fe7763be467796640529986b965
+
+COCOAPODS: 1.2.0
